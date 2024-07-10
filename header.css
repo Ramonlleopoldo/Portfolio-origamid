@@ -1,1 +1,16 @@
-
+header {
+  margin: 40px 140px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+}
+.menu-item {
+  font-size: 1.125rem;
+  color: #141414;
+}
