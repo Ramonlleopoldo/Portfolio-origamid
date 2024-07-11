@@ -1,8 +1,10 @@
 .perfil {
-  margin: 40px 140px;
   display: grid;
   grid-template-columns: 1fr 2fr;
+  padding: 40px 140px;
   gap: 118px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 .perfil-texto {
   font-size: 4.5rem;

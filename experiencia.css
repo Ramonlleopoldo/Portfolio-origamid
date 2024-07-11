@@ -1,8 +1,10 @@
 .experiencia {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  margin: 40px 140px;
+  padding: 40px 140px;
   gap: 118px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 .experiencia-h1 {
   max-width: 450px;

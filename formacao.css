@@ -1,14 +1,13 @@
 .bg-black {
-  margin: 0 auto;
   color: #fff;
   background-color: #141414;
-  padding-top: 40px;
-  padding-bottom: 40px;
 }
 .formacao {
+  margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  margin: 40px 140px;
+  max-width: 1440px;
+  padding: 40px 140px;
   gap: 118px;
 }
 .formacao-grid-titulo {
