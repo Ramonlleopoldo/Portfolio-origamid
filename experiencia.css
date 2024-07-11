@@ -2,13 +2,14 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   margin: 40px 140px;
-  gap: 140px;
+  gap: 118px;
 }
 .experiencia-h1 {
   max-width: 450px;
   font-size: 9rem;
   font-weight: 900;
   word-break: break-all;
+  color: #e0e0e0;
 }
 .experiencia-texto-p {
   color: #525252;

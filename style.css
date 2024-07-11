@@ -2,22 +2,24 @@
 @import url(./header.css);
 @import url(./perfil.css);
 @import url(./experiencia.css);
+@import url(./formacao.css);
 /*reset geral*/
 * {
   margin: 0;
   box-sizing: border-box;
   font-family: "Fira Sans", sans-serif;
+  padding: 0;
 }
 a {
   text-decoration: none;
 }
 
-/*container do site*/
+/*container do site
 .container {
   max-width: 1440px;
   margin: 0 auto;
 }
-
+*/
 img {
   max-width: 100%;
 }
