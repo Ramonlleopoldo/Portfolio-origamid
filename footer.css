@@ -1,0 +1,30 @@
+.bg-footer {
+  background-color: #000;
+  color: #fff;
+}
+.rodape {
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 80px 140px;
+  gap: 118px;
+}
+.rodape-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+.rodape-grid p {
+  font-size: 1.5rem;
+  color: #ccc;
+  max-width: 35ch;
+}
+.contato-item {
+  font-size: 2.25rem;
+  font-weight: 900;
+  margin-bottom: 20px;
+  margin-right: 200px;
+}
+.rodape-direitos {
+  color: #8f8f8f;
+}

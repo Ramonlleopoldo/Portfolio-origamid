@@ -3,6 +3,7 @@
 @import url(./perfil.css);
 @import url(./experiencia.css);
 @import url(./formacao.css);
+@import url(footer.css);
 /*reset geral*/
 * {
   margin: 0;
