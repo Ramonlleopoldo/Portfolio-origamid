@@ -15,3 +15,24 @@
   color: #525252;
   padding-top: 1.87rem;
 }
+@media (max-width: 1100px) {
+  .perfil {
+    gap: 50px;
+  }
+  .perfil-texto {
+    font-size: 3.5rem;
+  }
+}
+@media (max-width: 900px) {
+  .perfil-img {
+    display: none;
+  }
+  .perfil {
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px;
+  }
+  .perfil-texto {
+    font-size: 3rem;
+  }
+}

@@ -17,3 +17,18 @@ header {
   font-size: 1.125rem;
   color: #141414;
 }
+
+@media (max-width: 900px) {
+  header {
+    padding: 40px;
+    gap: 30px;
+  }
+  .menu {
+    gap: 10px;
+  }
+}
+@media (max-width: 500px) {
+  header {
+    justify-content: center;
+  }
+}
