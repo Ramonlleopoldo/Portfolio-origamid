@@ -29,8 +29,7 @@
   }
   .perfil {
     display: flex;
-    justify-content: center;
-    padding: 20px 20px;
+    padding: 40px;
   }
   .perfil-texto {
     font-size: 3rem;

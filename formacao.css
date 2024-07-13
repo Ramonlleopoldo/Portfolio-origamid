@@ -71,7 +71,7 @@
     gap: 50px;
   }
   .formacao-grid-titulo {
-    font-size: 7rem;
+    font-size: 5rem;
   }
 }
 @media (max-width: 900px) {
