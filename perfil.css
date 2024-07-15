@@ -9,6 +9,18 @@
 .perfil-texto {
   font-size: 4.5rem;
   font-weight: 900;
+  position: relative;
+}
+.perfil-texto::before {
+  content: "";
+  display: block;
+  width: 130px;
+  height: 100px;
+  background: url(./assets/img/detalhe.svg) no-repeat center;
+  position: absolute;
+  top: 0;
+  left: -40px;
+  z-index: -1;
 }
 .grid-perfil-texto p {
   font-size: 1.5rem;
